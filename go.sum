@@ -1,4 +1,2 @@
-git.cloudhub.top/server/media-server-agent-go-client v1.0.1 h1:/MyC2m8QjoLR5nc5JVtSsKXbvOJYOGBSnX/bAjxrIqo=
-git.cloudhub.top/server/media-server-agent-go-client v1.0.1/go.mod h1:B+KlAeqb3otM1ISKaJGVjia8n7eGGWjoohdcTO5J0BU=
-github.com/yourbrainrun/testlib v1.0.2 h1:NMHmWfEtNAvc4yNzhtHsFIXmw6AfzFLTxsk9CvbjkZ0=
-github.com/yourbrainrun/testlib v1.0.2/go.mod h1:2g92mdw4YyCsAbtH1cAuxceSzFo0o5O0My0TIWMeVLk=
+github.com/baidubce/bce-sdk-go v0.9.125 h1:je4wqeQzch22S0islZZLKtmyzKld4KY6OVjuKOTwdOQ=
+github.com/baidubce/bce-sdk-go v0.9.125/go.mod h1:zbYJMQwE4IZuyrJiFO8tO8NbtYiKTFTbwh4eIsqjVdg=

@@ -1,8 +1,5 @@
-module uselib
+module baidu_test
 
 go 1.15
 
-require (
-	git.cloudhub.top/server/media-server-agent-go-client v1.0.1 // indirect
-	github.com/yourbrainrun/testlib v1.0.2
-)
+require github.com/baidubce/bce-sdk-go v0.9.125
